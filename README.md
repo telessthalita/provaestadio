@@ -1,4 +1,4 @@
-# provaestadio
+# provaestagio
 Repositório referente a prova prática do estágio.
 Esse projeto foi desenvolvido com o intuito de avaliação de 
 capacidade técnica, seguindo o que foi solicitado, 
